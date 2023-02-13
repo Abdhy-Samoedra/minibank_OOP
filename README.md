@@ -5,8 +5,9 @@
   User is asked to enter a name and password that will be used to login
     <br />
 2. User is asked to choose the type of savings (savings or time deposit)
+
   <br />
-3. If the user wants to make savings again but still with the same user then
+4. If the user wants to make savings again but still with the same user then
   required to login first and create in the user menu
     <br />
 4. If the user wants to collect or enter money the user must first log in to his account
