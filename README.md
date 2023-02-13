@@ -1,7 +1,7 @@
 # Mini bank application
 # ABC BANK
 
-1.at the first run of this application the user is asked to sign up first
+1.__at the first run of this application the user is asked to sign up first
   User is asked to enter a name and password that will be used to login
 2.User is asked to choose the type of savings (savings or time deposit)
 3.if the user wants to make savings again but still with the same user then
