@@ -3,7 +3,7 @@
 
 1. At the first run of this application the user is asked to sign up first
   User is asked to enter a name and password that will be used to login
-  <br />
+    <br />
 2. User is asked to choose the type of savings (savings or time deposit)
   <br />
 3. if the user wants to make savings again but still with the same user then
